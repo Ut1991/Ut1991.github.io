@@ -22,7 +22,7 @@ repository              : "Ut1991/Ut1991.github.io"
 #                Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Utkarsh Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate specializing in low-power Analog, RF, Mixed-Signal, and Photonics IC design."
