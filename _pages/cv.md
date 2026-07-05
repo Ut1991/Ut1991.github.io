@@ -21,13 +21,14 @@ Education
 
 Core Technical Expertise & Circuit Blocks
 ======
+* **Primary IC Design Domains:** Advanced Hardware Security primitives, High-Efficiency Radio Frequency (RF) Energy Harvesting microsystems, and Energy-Detection Based RF architectures optimized for ultra-low power operation and enhanced physical-layer security of IoT and biomedical devices.
 * **RF & Microwave Front-End Architectures:** Low-Noise Amplifiers (LNAs), Power Amplifiers (PAs), Active/Passive Mixers, Gilbert Cell Multipliers, Voltage-Controlled Oscillators (VCOs), Ring Oscillators, LC Tank Cavities, Injection-Locked Oscillators, Phase Shifters, Attenuators, High-Frequency RF Filters (BAW/SAW), RF Front-End Modules (FEM), and Wideband Impedance Matching Networks.
 * **Analog Core Blocks & Circuits:** High-Gain Operational Amplifiers (Op-Amps) with advanced frequency compensation networks, Operational Transconductance Amplifiers (OTAs), Instrumentation Amplifiers, Differential Pairs, Active/Passive Filters, Programmable Gain Amplifiers (PGAs), Variable Gain Amplifiers (VGAs), Precision Current Mirrors, and Stable Voltage References.
 * **Mixed-Signal & Data Conversion Blocks:** High-Speed Latching Comparators, Dynamic Latches, Sample-and-Hold (S/H) circuits, Track-and-Hold (T/H) amplifiers, Analog-to-Digital Converters (ADCs: SAR, Sigma-Delta, Pipelined, Flash), and Digital-to-Analog Converters (DACs: Current-Steering, R-2R).
 * **Clock Generation & PLL Systems:** Phase-Locked Loops (PLLs), Charge Pumps, Phase-Frequency Detectors (PFD), Frequency Dividers/Prescalers, Loop Filters, Clock and Data Recovery (CDR) architectures, and High-Speed Clock Distribution Networks.
 * **Power Management IC (PMIC) Blocks:** Low-Dropout Regulators (LDOs), Bandgap References (BGR) with startup mechanics, Charge Pumps, Buck/Boost Switching Power Converters, Voltage Clamps, and Rectifiers.
 * **High-Speed Serial Links & Signaling:** SerDes (Serializer/Deserializer) architectures, Equalizers (CTLE, DFE, FFE), High-Speed Transmitter Drivers, Optical Modulator Drivers, Transimpedance Amplifiers (TIAs), and Integrated Optical/Photonics Interconnects.
-* **Simulation-to-Lab Silicon Validation:** Advanced expertise translating complex transistor-level schematics into verified physical layouts, performing pre- and post-layout parasitic extraction validation, executing complex on-chip statistical validation (200-point Monte Carlo mismatch verification), and conducting final bench-level chip characterization.
+* **Simulation, Verification & Silicon Validation:** Extensive experience translating transistor-level schematics into verified physical layouts. Expert in pre-/post-layout parasitic extraction (RCX/PEX) validation, rigorous Process, Voltage, and Temperature (PVT) corner analysis, and advanced statistical mismatch characterization for yield optimization and debugging.
 * **EDA Software & Tools:** Cadence Virtuoso Suite, Keysight Advanced Design System (ADS), Ansys HFSS, COMSOL Multiphysics, Synopsys RTL2GDS Digital Flow, SPICE Simulation Engines, and MATLAB numerical computing environments.
 * **RF Lab Instrumentation:** Benchtop testing using Vector Network Analyzers (VNAs), Digital Storage Oscilloscopes, DC Power Supplies, High-Frequency Function Generators, and Digital Multimeters (DMMs).
 
@@ -35,12 +36,12 @@ Core Technical Expertise & Circuit Blocks
 
 Sponsored Research Projects (DARPA/NSF Grant)
 ======
-* **Energy-Detection RF Architectures** | *June 2025 – Present*
+* **Energy-Detection RF Architectures for Secure IoT** | *June 2025 – Present*
   * Designing energy detection-based radio frequency (RF) circuits tailored for ultra-low power operation and enhanced hardware security of next-generation IoT devices.
 * **Energy-Efficient PLL-Based Frequency Synthesizer** | *October 2024 – June 2025*
   * Developed energy-efficient Phase-Locked Loop (PLL)-based frequency synthesizers optimized for distributed beamforming networks and next-generation wireless communications systems.
 * **Protecting Analog and Mixed-Signal Circuits Using Switch-Mode Time-Domain Locking** | *May 2023 – March 2024*
-  * Researched and developed advanced methodologies for safeguarding sensitive analog and mixed-signal integrated circuits using custom switch-mode time-domain locking state frameworks.
+  * Researched and developed advanced methodologies for safeguarding sensitive analog and mixed-signal integrated circuits using custom switch-mode time-domain locking state frameworks to prevent reverse engineering and unauthorized hardware tampering.
 * **Sub-microwatt RF Energy Harvesting Integrated Circuit** | *January 2023 – November 2023*
   * Built ultra-low power sub-microwatt RF energy harvesting integrated circuits featuring high-efficiency rectifiers and intelligent power management architectures for battery-free IoT nodes and biomedical implant applications.
 
@@ -48,10 +49,10 @@ Sponsored Research Projects (DARPA/NSF Grant)
 
 Silicon Design & Academic Projects
 ======
-* **45nm CMOS Bandgap Reference (BGR):** Modeled and designed a precision 45nm CMOS bandgap reference circuit achieving a highly stable temperature drift profile of less than 1 mV/°C for high-accuracy on-chip biasing networks.
+* **45nm CMOS Bandgap Reference (BGR):** Modeled and designed a precision 45nm CMOS bandgap reference circuit achieving a highly stable temperature drift profile of less than 1 mV/°C across critical thermal swings for high-accuracy on-chip biasing networks.
 * **65nm CMOS Low-Dropout (LDO) Regulator:** Implemented a 65nm CMOS LDO regulator achieving 100 mV load regulation and a rapid sub-5 microsecond transient recovery response across a variable 1–50 mA load envelope.
 * **9-bit Differential SAR ADC:** Fabricated and designed a 9-bit differential charge-redistribution Successive Approximation Register (SAR) Analog-to-Digital Converter in TSMC 65nm technology, achieving 50.5 dB SNDR and 59.5 dB SFDR at an ultra-low power consumption of 233 microwatts under a 1 V supply.
-* **Logarithmic RSSI Transceiver Chain:** Configured a high-dynamic-range Received Signal Strength Indicator (RSSI) current-summing architecture coupled with multi-stage limiting amplifiers for integrated spectrum sensor blocks.
+* **Logarithmic RSSI Transceiver Chain:** Configured a high-dynamic-range Received Signal Strength Indicator (RSSI) current-summing architecture coupled with multi-stage limiting amplifiers for integrated spectrum sensor blocks and energy detection infrastructure.
 
 ---
 
