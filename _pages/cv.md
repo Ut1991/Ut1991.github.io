@@ -127,5 +127,9 @@ Publications
 
 Talks & Presentations
 ======
-* **NEHWS 2026** (Northeast Hardware and Embedded Systems Security Workshop) — Tufts University, Boston, MA | Friday, April 24, 2026
-* **MWSCAS 2026** — Cincinnati, OH | August 12, 2026 | Salon F, 11:33 AM – 11:51 AM
+* **NEHWS 2026** (Northeast Hardware and Embedded Systems Security Workshop) — Tufts University, Boston, MA | April 2026
+* **MWSCAS 2026** — Cincinnati, OH | August 2026
+* **IEEE ICIIECS 2016** — 3rd International Conference on Innovations in Information, Embedded and Communication Systems, Karpagam College of Engineering, Coimbatore, India | March 2016
+* **International Conference on Computer Communication and Informatics (ICCCI) 2016** — Sri Shakthi Institute of Engineering and Technology, Coimbatore, India | January 2016
+* **IEEE 3rd International Conference on Electronics and Communication Systems 2016** — Karpagam College of Engineering, Coimbatore, India | February 2016
+* **ICMARS 2015** — 11th International Conference on Microwaves, Antenna, Propagation & Remote Sensing, Jodhpur, India | December 2015
