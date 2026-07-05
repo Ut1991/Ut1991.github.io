@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Circuits and Signals for Biomedical Applications"
+title: "Teaching Assistant - Circuits and Signals for Biomedical Applications (EECE 2150)"
 collection: teaching
 type: "Undergraduate/Graduate Course"
 permalink: /teaching/2024-01-01-ta-circuits
