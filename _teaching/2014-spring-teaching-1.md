@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Power Management Integrated Circuits"
+title: "Teaching Assistant - Power Management Integrated Circuits (EECE 7250)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2025-01-01-ta-pmic
