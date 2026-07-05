@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Boston, MA"
 ---
 
-* [cite_start]**Term:** January 2024 – April 2024 [cite: 33]
-* [cite_start]Guided students in analog CMOS circuit design and simulation frameworks using Cadence Virtuoso, MATLAB, and SPICE tools[cite: 35].
-* [cite_start]Taught fundamental analog building blocks, including operational amplifiers (op-amps), current mirrors, differential pairs, and active filters[cite: 35].
-* [cite_start]Supervised layout implementation phases and performance evaluations through frequency response, transient behavior, and frequency compensation analysis[cite: 35].
+* **Term:** January 2024 – April 2024
+* Guided students in analog CMOS circuit design and simulation frameworks using Cadence Virtuoso, MATLAB, and SPICE tools.
+* Taught fundamental analog building blocks, including operational amplifiers (op-amps), current mirrors, differential pairs, and active filters.
+* Supervised layout implementation phases and performance evaluations through frequency response, transient behavior, and frequency compensation analysis.
