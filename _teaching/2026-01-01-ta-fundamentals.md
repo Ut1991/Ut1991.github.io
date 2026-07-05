@@ -11,6 +11,6 @@ location: "Boston, MA"
 * **Term:** January 2026 – April 2026
 * Instructed undergraduate students in fundamental electronic circuit theory, focusing on operational amplifiers (op-amps), diodes, BJT/MOSFET transistor characteristics, and small-signal models.
 * Supervised laboratory experiments involving hands-on circuit prototyping, testing, and troubleshooting on physical breadboards.
-* Guided students in utilizing professional benchtop equipment including digital storage oscilloscopes, vector network analyzers (VNAs), function generators, and digital multimeters (DMMs).
+* Guided students in utilizing professional benchtop equipment including digital storage oscilloscopes, DC power supplies, function generators, and digital multimeters (DMMs).
 * Mentored students on simulation-based design verification using SPICE modeling software to compare theoretical calculations with physical circuit behavior.
 * Conducted weekly office hours to clarify core semiconductor concepts, graded comprehensive laboratory reports, and evaluated student technical performance.
