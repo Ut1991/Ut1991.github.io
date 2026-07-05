@@ -1,3 +1,4 @@
+```markdown
 ---
 permalink: /
 title: "About Me"
@@ -6,129 +7,112 @@ author_profile: true
 
 # About Me
 
-I am a **Ph.D. Candidate in Electrical and Computer Engineering** at **Northeastern University**, Boston, Massachusetts, specializing in **Analog, RF, Mixed-Signal, and Photonics Integrated Circuit (IC) Design**. My research focuses on **Hardware Security**, **Power Management Integrated Circuits (PMICs)**, **RF Energy Harvesting Microsystems**, **Energy Detection-Based RF Architectures**, and **Ultra-Low-Power Wireless Systems** for next-generation Internet of Things (IoT), biomedical implants, and battery-free sensing platforms.
+I am a **Ph.D. Candidate in Electrical and Computer Engineering** at **Northeastern University**, where my research focuses on **Analog, RF, and Mixed-Signal Integrated Circuit Design**, **Hardware Security**, **Power Management Integrated Circuits (PMICs)**, **RF Energy Harvesting**, and **Ultra-Low-Power Wireless Systems**.
 
-My work combines analog, RF, and mixed-signal circuit design with practical semiconductor implementation, emphasizing secure, energy-efficient, and highly reliable integrated circuits. I am particularly interested in developing novel circuit architectures that improve power efficiency, enhance physical-layer security, and maintain robust operation across process, voltage, temperature, and manufacturing variations.
+My research aims to develop secure, energy-efficient integrated circuits for next-generation Internet of Things (IoT), biomedical implants, wireless sensing platforms, and battery-free electronic systems. I am particularly interested in combining innovative circuit architectures with practical silicon implementation to improve power efficiency, reliability, and hardware security.
 
-My experience spans the complete custom integrated circuit development flow, from system architecture exploration and behavioral modeling to transistor-level CMOS circuit design, schematic capture, simulation, custom layout, post-layout verification, silicon validation, and laboratory characterization. I have designed and validated RF front-end circuits, power management systems, analog and mixed-signal building blocks, RF energy harvesting circuits, and hardware security architectures from concept through silicon implementation.
+I have experience across the complete custom integrated circuit design flow, beginning with system architecture exploration and behavioral modeling, followed by transistor-level CMOS circuit design, schematic capture, simulation, custom layout, post-layout verification, fabrication support, silicon validation, and laboratory characterization. My work emphasizes robust circuit design through comprehensive Process, Voltage, and Temperature (PVT) verification, Monte Carlo mismatch analysis, post-layout RC extraction (RCX/PEX), electromagnetic simulation, statistical yield evaluation, and post-silicon performance validation.
 
-Beyond circuit design, I focus on developing robust and manufacturable integrated circuits through comprehensive verification methodologies. My work routinely includes Process, Voltage, and Temperature (PVT) verification, Monte Carlo mismatch analysis, post-layout RC extraction (RCX/PEX), statistical yield evaluation, electromagnetic simulation, and post-silicon characterization to ensure reliable circuit operation under practical conditions.
+My technical expertise includes analog and mixed-signal integrated circuits, RF and microwave front-end design, power management integrated circuits, RF energy harvesting systems, hardware security architectures, high-speed data converters, and wireless transceiver building blocks. I have designed and characterized a wide range of CMOS circuits including RF rectifiers, low-dropout regulators, bandgap voltage references, switched-capacitor converters, phase-locked loops, comparators, operational amplifiers, current mirrors, SAR ADCs, RF filters, impedance matching networks, and resonator-based RF architectures.
+
+As a Graduate Researcher at Northeastern University, my work has been supported through **DARPA** and **NSF** funded research projects involving hardware security for analog and mixed-signal integrated circuits, secure power management systems, RF energy harvesting, distributed beamforming, and energy detection-based wireless architectures. My research has resulted in publications in leading IEEE journals and conferences, including **IEEE Transactions on VLSI Systems (TVLSI)**, **IEEE Open Journal of Circuits and Systems (OJCAS)**, **IEEE Transactions on Circuits and Systems I (TCAS-I)**, **MWSCAS**, and other international venues.
+
+Prior to my doctoral studies, I worked as an **RF Filter Design Co-op at Skyworks Solutions**, where I designed and validated high-frequency BAW and SAW filters for commercial RF front-end modules operating from 4–10 GHz. Earlier, I served as an **RF & Signaling Operations Engineer with Indian Railways**, contributing to the deployment, commissioning, and maintenance of mission-critical communication and signaling infrastructure.
 
 ---
 
-# Technical Specializations
+# Research Interests
 
-## Analog, RF, and Mixed-Signal IC Design
+- Analog Integrated Circuit Design
+- RF and Microwave Integrated Circuits
+- Mixed-Signal Systems
+- Hardware Security
+- Power Management Integrated Circuits
+- RF Energy Harvesting
+- Energy Detection-Based RF Architectures
+- Ultra-Low-Power Electronics
+- Wireless Microsystems
+- Biomedical Integrated Circuits
+- Internet of Things (IoT)
+- Semiconductor Device Design
 
-- CMOS Analog Circuit Design
-- RF Integrated Circuits
-- Mixed-Signal Circuit Design
+---
+
+# Technical Expertise
+
+### Analog and Mixed-Signal IC Design
+
+- CMOS Analog Circuits
 - Operational Amplifiers
 - Dynamic Comparators
-- StrongARM Latch Comparators
+- StrongARM Latches
 - Current Mirrors
 - Differential Amplifiers
 - Track-and-Hold Amplifiers
 - Successive Approximation Register (SAR) ADCs
 - Precision Bias Circuits
-- Ultra-Low-Power Circuit Design
 
-## RF and Microwave Circuits
+### RF and Microwave Design
 
 - Bulk Acoustic Wave (BAW) Filters
 - Surface Acoustic Wave (SAW) Filters
 - Low Noise Amplifiers (LNAs)
 - Power Amplifiers (PAs)
 - Phase-Locked Loops (PLLs)
-- Voltage-Controlled Oscillators (VCOs)
 - RF Mixers
+- Voltage-Controlled Oscillators (VCOs)
 - RF Energy Detectors
 - Impedance Matching Networks
 - Resonator-Based RF Circuits
-- Beamforming Architectures
-- RF System Integration
 
-## Power Management Integrated Circuits
+### Power Management ICs
 
 - Low-Dropout Regulators (LDOs)
 - Bandgap Voltage References (BGRs)
 - Charge Pumps
 - Switched-Capacitor DC-DC Converters
-- Startup Circuits
-- Current References
-- CMOS RF Rectifiers
-- RF Energy Harvesting Systems
+- RF Rectifiers
+- RF Energy Harvesting
 - Battery-Free Power Management
-- Ultra-Low-Power Power Conversion
 
-## Hardware Security
+### Hardware Security
 
 - Hardware Security Primitives
-- Secure Analog and Mixed-Signal ICs
-- Energy Detection-Based RF Security
 - Switch-Mode Time-Domain Locking
 - Physical-Layer Security
-- Anti-Tamper Circuit Design
-- Secure Power Management Architectures
+- Secure Analog and Mixed-Signal ICs
+- Anti-Tamper Circuit Techniques
 
-## Silicon Verification and Physical Design
+### Verification and Physical Design
 
-- System Architecture Exploration
-- Behavioral Modeling
-- Transistor-Level CMOS Design
-- Schematic Capture
+- Process, Voltage, and Temperature (PVT) Analysis
+- Monte Carlo Mismatch Analysis
 - Custom Analog Layout
-- Device Optimization
 - Design Rule Check (DRC)
 - Layout Versus Schematic (LVS)
 - RC Extraction (RCX)
 - Post-Layout Parasitic Extraction (PEX)
-- Post-Layout Simulation
-- Process, Voltage, and Temperature (PVT) Verification
-- Monte Carlo Mismatch Analysis
 - Statistical Yield Analysis
-- Corner Verification
 
-## Electromagnetic Simulation and PCB Design
+### Laboratory Characterization
 
-- Multi-Layer PCB Design
-- Signal Integrity (SI)
-- Power Integrity (PI)
-- Power Distribution Network (PDN) Design
-- High-Speed PCB Routing
-- Electromagnetic Simulation
-- RF Co-Simulation
-- Package Parasitic Analysis
-- Passive Device Modeling
-- Transmission Line Design
-
-## Silicon Validation
-
-- RF Characterization
-- S-Parameter Measurements
-- Gain and Frequency Response Measurements
-- Noise Analysis
-- Efficiency Measurements
-- Silicon Debugging
-- Laboratory Validation
+- RF Measurements
+- S-Parameter Characterization
+- Silicon Validation
 - Vector Network Analyzers (VNAs)
 - Spectrum Analyzers
 - Oscilloscopes
 - Signal Generators
 - Source Measurement Units (SMUs)
-- Function Generators
-- Logic Analyzers
 
-## Electronic Design Automation (EDA)
+### Electronic Design Automation
 
 - Cadence Virtuoso
-- Cadence Spectre ADE Explorer
-- Cadence Spectre ADE Assembler
-- Cadence Layout Suite
-- Keysight Advanced Design System (ADS)
+- Spectre ADE Explorer
+- Spectre ADE Assembler
+- Keysight ADS
 - Ansys HFSS
 - COMSOL Multiphysics
-- Synopsys Digital Design Flow
 - MATLAB
 - Simulink
 - SPICE
@@ -138,74 +122,4 @@ Beyond circuit design, I focus on developing robust and manufacturable integrate
 - Python
 - TCL
 - Perl
-
----
-
-# Education
-
-**Ph.D. in Electrical and Computer Engineering**  
-*Northeastern University, Boston, Massachusetts*  
-CGPA: **3.85/4.00**
-
-**Master of Technology in Electronics and Communication Engineering**  
-*Pondicherry Central University, India*  
-**Gold Medalist**  
-CGPA: **9.20/10**
-
-**Bachelor of Technology in Electronics and Communication Engineering**  
-*Hindustan University, Chennai, India*  
-**Distinction**  
-CGPA: **8.80/10**
-
----
-
-# Research
-
-As a Graduate Researcher at **Northeastern University**, my research has been supported through **DARPA** and **NSF** funded projects. My work focuses on secure analog and mixed-signal integrated circuits, RF energy harvesting, energy detection-based RF architectures, distributed beamforming systems, power management integrated circuits, and ultra-low-power wireless systems for IoT and biomedical applications.
-
----
-
-# Industry Experience
-
-## RF Filter Design Co-op
-**Skyworks Solutions Inc., Irvine, California**  
-*July 2024 – December 2024*
-
-- Designed and optimized BAW and SAW RF filters operating from 4–10 GHz for commercial RF front-end modules.
-- Performed electromagnetic simulations, impedance matching, layout optimization, RF measurements, and front-end integration using industry-standard design tools.
-
-## RF & Signaling Operations Engineer
-**Indian Railways, Chennai, India**  
-*February 2018 – January 2023*
-
-- Managed mission-critical railway communication and signaling systems.
-- Worked on RF communication networks, telemetry systems, analog interfaces, fault diagnosis, commissioning, and reliability engineering for safety-critical infrastructure.
-
----
-
-## Teaching Experience
-
-**Graduate Teaching Assistant**
-**Department of Electrical and Computer Engineering, Northeastern University**
-
-* **Fundamentals of Electronics (EECE 2413):** Assisted undergraduate students in the analysis and design of electronic circuits, including semiconductor devices, diode and transistor circuits, operational amplifiers, frequency response, and analog circuit fundamentals. Conducted laboratory sessions, evaluated assignments, and provided technical guidance on circuit simulation and hardware implementation.
-
-* **Power Management Integrated Circuits (EECE 7250):** Guided graduate students in the design, simulation, layout, and verification of CMOS power management circuits, including low-dropout regulators (LDOs), bandgap voltage references (BGRs), charge pumps, switched-capacitor converters, bias circuits, and startup circuits using Cadence Virtuoso.
-
-* **Circuits and Signals for Biomedical Applications (EECE 2150):** Supported laboratory instruction covering analog and mixed-signal circuit design for biomedical systems, including operational amplifiers, differential amplifiers, current mirrors, active filters, data acquisition circuits, and signal conditioning techniques. Assisted students with circuit simulation, layout implementation, and performance evaluation.
-  
----
-
-# Research Interests
-
-- Analog Integrated Circuits
-- RF and Microwave Integrated Circuits
-- Mixed-Signal System Design
-- Hardware Security
-- Power Management Integrated Circuits
-- RF Energy Harvesting
-- Ultra-Low-Power Electronics
-- Wireless Microsystems
-- Internet of Things (IoT)
-- Biomedical Integrated Circuits
-- Semiconductor Device Design
+```
