@@ -1,4 +1,4 @@
-  ---
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -21,9 +21,13 @@ Education
 
 Core Technical Expertise
 ======
-* **Featured IC Design Projects:** High-Dynamic-Range Received Signal Strength Indicator (RSSI) architectures, multi-stage Limiting Amplifiers, and precision Current-Summing logarithmic topologies tailored for low-power transceivers.
-* **Power Management & Analog Blocks:** Low-Dropout Regulators (LDOs), Bandgap References (BGR), Charge Pumps, Power Converters, High-Gain Operational Amplifiers (Op-Amps), Differential Pairs, Current Mirrors, and Active/Passive Filters.
-* **Photonics & Advanced Interfaces:** Integrated Optical/Photonics Interfaces and electro-optical co-design.
+* **Primary IC Design Project:** On-Chip RF/Analog Spectrum Sensor Microsystem integrating a high-dynamic-range logarithmic Received Signal Strength Indicator (RSSI) topology, multi-stage Limiting Amplifiers, and precision Current-Summing architectures.
+* **RF & Microwave Circuit Blocks:** Low-Noise Amplifiers (LNAs), Power Amplifiers (PAs), Active/Passive Mixers, Gilbert Cells, Voltage-Controlled Oscillators (VCOs), Ring Oscillators, LC Tank Cavities, Injection-Locked Oscillators, Phase Shifters, Attenuators, High-Frequency RF Filters (BAW/SAW), RF Front-End Modules (FEM), and Wideband Impedance Matching Networks.
+* **Analog & Baseband Core Blocks:** High-Gain Operational Amplifiers (Op-Amps) with advanced frequency compensation networks, Operational Transconductance Amplifiers (OTAs), Instrumentation Amplifiers, Differential Pairs, Active/Passive Filters, Programmable Gain Amplifiers (PGAs), Variable Gain Amplifiers (VGAs), Current Mirrors, and Voltage References.
+* **Mixed-Signal & Data Conversion Blocks:** High-Speed Comparators, Dynamic Latches, Sample-and-Hold (S/H) circuits, Track-and-Hold (T/H) amplifiers, Analog-to-Digital Converters (ADCs: SAR, Sigma-Delta, Pipelined, Flash), and Digital-to-Analog Converters (DACs: Current-Steering, R-2R).
+* **Clock Generation & PLL Systems:** Phase-Locked Loops (PLLs), Charge Pumps, Phase-Frequency Detectors (PFD), Frequency Dividers/Prescalers, Loop Filters, Clock and Data Recovery (CDR) architectures, and High-Speed Clock Distribution Networks.
+* **High-Speed Serial Links & Signaling:** SerDes (Serializer/Deserializer) architectures, Equalizers (CTLE, DFE, FFE), High-Speed Transmitter Drivers, Optical Modulator Drivers, Transimpedance Amplifiers (TIAs), and Integrated Optical/Photonics Interconnects.
+* **Power Management IC (PMIC) Blocks:** Low-Dropout Regulators (LDOs), Bandgap References (BGR) with startup mechanics, Charge Pumps, Buck/Boost Switching Power Converters, Voltage Clamps, and Rectifiers.
 * **Simulation-to-Lab Silicon Validation:** Advanced expertise in translating theoretical design to silicon reality through robust schematic capture, physical layout implementation, pre-/post-layout parasitic extraction validation, complex on-chip statistical validation (including 200-point Monte Carlo mismatch verification), and final bench-level chip characterization.
 * **EDA Software & Tools:** Cadence Virtuoso Suite, Keysight Advanced Design System (ADS), Ansys HFSS, COMSOL Multiphysics, Synopsys RTL2GDS Digital Flow, SPICE Simulation Engines, and MATLAB numerical computing environments.
 * **RF Lab Instrumentation:** Benchtop testing using Vector Network Analyzers (VNAs), Digital Storage Oscilloscopes, DC Power Supplies, High-Frequency Function Generators, and Digital Multimeters (DMMs).
