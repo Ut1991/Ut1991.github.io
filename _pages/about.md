@@ -1,11 +1,13 @@
+Markdown
 ---
 permalink: /
 title: "About Me"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
-# About Me
-
 I am a **Ph.D. Candidate in Electrical and Computer Engineering** at **Northeastern University**, Boston, Massachusetts, specializing in **Analog, RF, Mixed-Signal, and Photonics Integrated Circuit (IC) Design**. My research focuses on **Hardware Security**, **Power Management Integrated Circuits (PMICs)**, **RF Energy Harvesting**, **Energy Detection-Based RF Architectures**, and **Ultra-Low-Power Wireless Systems** for next-generation Internet of Things (IoT), biomedical implants, wireless sensing platforms, and battery-free electronic systems.
 
 My research combines analog, RF, and mixed-signal integrated circuit design with practical semiconductor implementation to develop secure, energy-efficient, and highly reliable integrated circuits. I am particularly interested in designing circuit architectures that improve power efficiency, enhance physical-layer security, and maintain robust operation across process, voltage, temperature, and manufacturing variations.
