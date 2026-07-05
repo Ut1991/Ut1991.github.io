@@ -1,5 +1,7 @@
 ---
 permalink: /
+title: "About Me"
+hide_title: true
 excerpt: "About me"
 author_profile: true
 redirect_from:
