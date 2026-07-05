@@ -183,18 +183,17 @@ As a Graduate Researcher at **Northeastern University**, my research has been su
 
 ---
 
-# Teaching
+## Teaching Experience
 
-**Graduate Teaching Assistant**  
-*Northeastern University*
+**Graduate Teaching Assistant**
+**Department of Electrical and Computer Engineering, Northeastern University**
 
-Courses Assisted:
+* **Fundamentals of Electronics (EECE 2413):** Assisted undergraduate students in the analysis and design of electronic circuits, including semiconductor devices, diode and transistor circuits, operational amplifiers, frequency response, and analog circuit fundamentals. Conducted laboratory sessions, evaluated assignments, and provided technical guidance on circuit simulation and hardware implementation.
 
-- Power Management Integrated Circuits (PMICs)
-- Circuits and Signals for Biomedical Applications
+* **Power Management Integrated Circuits (EECE 7250):** Guided graduate students in the design, simulation, layout, and verification of CMOS power management circuits, including low-dropout regulators (LDOs), bandgap voltage references (BGRs), charge pumps, switched-capacitor converters, bias circuits, and startup circuits using Cadence Virtuoso.
 
-Responsibilities included laboratory instruction, Cadence Virtuoso training, analog CMOS circuit design, custom layout, simulation, verification, and evaluation of graduate laboratory assignments.
-
+* **Circuits and Signals for Biomedical Applications (EECE 2150):** Supported laboratory instruction covering analog and mixed-signal circuit design for biomedical systems, including operational amplifiers, differential amplifiers, current mirrors, active filters, data acquisition circuits, and signal conditioning techniques. Assisted students with circuit simulation, layout implementation, and performance evaluation.
+  
 ---
 
 # Research Interests
