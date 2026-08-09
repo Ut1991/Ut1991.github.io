@@ -11,7 +11,7 @@ I am a Ph.D. Candidate in **Electrical and Computer Engineering** at **Northeast
 
 I work across the full custom IC development flow — from architecture exploration and behavioral modeling to transistor-level design, layout, parasitic extraction, silicon validation, and lab characterization. I'm especially interested in circuits that stay efficient, secure, and robust across real-world PVT and manufacturing variation, not just in simulation.
 
-Over the course of my Ph.D., supported by **DARPA** and **NSF** funded projects, I've designed and characterized a wide range of CMOS building blocks: RF rectifiers, LDOs, bandgap references, switched-capacitor converters, PLLs, VCOs, op-amps, StrongARM comparators, SAR ADCs, RF filters, and matching/resonator networks for ultra-low-power wireless applications. This work has led to publications in **IEEE TVLSI**, **IEEE OJCAS**, **IEEE TCAS-I**, and **IEEE MWSCAS**.
+Over the course of my Ph.D., supported by **DARPA** and **NSF** funded projects, I've designed and characterized a wide range of CMOS building blocks: RF rectifiers, LDOs, bandgap references, switched-capacitor converters, PLLs, VCOs, op-amps, StrongARM comparators, SAR ADCs, RF filters, and matching/resonator networks for ultra-low-power wireless applications. This work has led to publications in **JSSC**,  **IEEE TVLSI**, **IEEE OJCAS**, **IEEE TCAS-I**,  **IEEE ISCAS**, and **IEEE MWSCAS**.
 
 Before my Ph.D., I was an RF Filter Design Co-op at **Skyworks Solutions**, designing and validating BAW/SAW filters for RF front-end modules from 4–10 GHz. Earlier still, I worked as an RF and Signaling Operations Engineer with **Indian Railways**, maintaining mission-critical RF communication and signaling infrastructure.
 
