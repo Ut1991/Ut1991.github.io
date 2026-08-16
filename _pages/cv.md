@@ -131,5 +131,5 @@ Publications
 * **NEHWS 2026** — New England Hardware Security Day, Tufts University, Medford, MA | *April 24, 2026*
 * **IEEE ICIIECS 2016** — 3rd International Conference on Innovations in Information, Embedded and Communication Systems, Karpagam College of Engineering, Coimbatore, India | *March 2016*
 * **IEEE ICECS 2016** — 3rd International Conference on Electronics and Communication Systems, Karpagam College of Engineering, Coimbatore, India | *February 2016*
-* **ICCCI 2016** — International Conference on Computer Communication and Informatics, Sri Shakthi Institute of Engineering and Technology, Coimbatore, India | *January 2016*
+* **IEEE ICCCI 2016** — International Conference on Computer Communication and Informatics, Sri Shakthi Institute of Engineering and Technology, Coimbatore, India | *January 2016*
 * **ICMARS 2015** — 11th International Conference on Microwaves, Antenna, Propagation & Remote Sensing, Jodhpur, India | *December 2015*
