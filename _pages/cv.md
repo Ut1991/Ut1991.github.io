@@ -20,7 +20,7 @@ Ph.D. Candidate in Electrical and Computer Engineering specializing in low-power
 Education
 ======
 * **Ph.D. in Electrical and Computer Engineering** — CGPA: 3.85/4.00
-  * *Northeastern University, Boston, MA, USA* | Jan 2023 – Present (Expected)
+  * *Northeastern University, Boston, MA, USA* | Jan 2023 – Present
   * **Research Specialization:** Low-power Analog, RF, Mixed-Signal, and Photonics IC Design
   * *Relevant Coursework:* Power Management ICs, Analog IC Design, RF IC Design, Solid State Devices
 * **M.Tech. in Electronics & Communication Engineering** — CGPA: 9.20/10, **Gold Medalist**
